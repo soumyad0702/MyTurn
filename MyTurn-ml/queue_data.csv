@@ -1,0 +1,6 @@
+orgType,orgName,serviceId,waitingCount,hour,serviceTime
+gov,MeeSeva Center,passport,1,18,5
+hospital,Apollo Hospitals,opd,1,18,8
+bank,ICICI Bank,account,1,18,10
+hospital,Apollo Hospitals,opd,2,19,9
+post,Hyderabad GPO,parcel,1,19,4

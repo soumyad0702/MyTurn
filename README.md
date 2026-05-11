@@ -13,8 +13,6 @@
 
 **MyTurn** is an intelligent, full-stack Smart Queue Management System designed to eliminate the inefficiencies of traditional queue systems. It provides real-time queue tracking, automated ticket management, and machine learning-based Estimated Time of Arrival (ETA) prediction — all through a clean, user-friendly web interface.
 
-This project was developed as part of the **Engineering Capstone Project – Phase 2 (22IE4054A)** at **Koneru Lakshmaiah Education Foundation (KL University)**, Aziz Nagar, Hyderabad.
-
 ---
 
 ## ✨ Features

@@ -172,5 +172,3 @@ The model is trained on historical completed ticket data and improves in accurac
 This project was developed for academic purposes as part of B.Tech Capstone Project at KL University, April 2026.
 
 ---
-
-<p align="center">Made with ❤️ by Team MyTurn | KL University 2026</p>
